@@ -1,4 +1,4 @@
-FROM tomcat:7-jre8
+FROM tomcat:7.0.73-jre8
 
 MAINTAINER Scott Kidder kidder.scott@gmail.com
 
